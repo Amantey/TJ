@@ -1,0 +1,70 @@
+﻿@model MVCTestPfile.Models.LoginModel
+
+
+    
+<h1 id="loginHeader">Используйте для входа локальную учетную запись.</h1>
+
+<div class="Aligner">
+    
+    @using (Html.BeginForm(new { ReturnUrl = ViewBag.ReturnUrl }))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+        <div class="row">
+            @*@Html.LabelFor(m => m.UserName, htmlAttributes: new { @class = "form-control" })*@
+            <div class="col-md-6 col-sm-6 col-xs-6 text-right">
+                <label class="control-label">Имя пользователя</label>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-6">
+                @Html.TextBoxFor(m => m.UserName, htmlAttributes: new { @class = "form-control", placeholder = "Login" })
+                @Html.ValidationMessageFor(m => m.UserName)
+            </div>
+        </div>
+        <div class="row">
+            @* @Html.LabelFor(m => m.Password, htmlAttributes: new { @class = "form-control" })*@
+            <div class="col-md-6 col-sm-6 col-xs-6 text-right">
+                <label class="control-label">Пароль</label>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-6 text-right">
+                @Html.PasswordFor(m => m.Password, htmlAttributes: new { @class = "form-control", placeholder = "Password" })
+                @Html.ValidationMessageFor(m => m.Password)
+            </div>
+        </div>
+        <div class="row Aligner-item">
+            <div class="col-md-7 col-sm-7 col-xs-7 text-right">
+                <label class="control-label">Запомнить меня </label> 
+            </div>
+            <div class="col-md-5 col-sm-5 col-xs-5 text-left">
+                @Html.CheckBoxFor(m => m.RememberMe)
+            </div>
+            
+
+        </div>
+        <div class="row Aligner-item">
+            <div class="col-md-6 col-sm-6 col-xs-6 text-right">
+            </div>
+                <div class="col-md-6 col-sm-6 col-xs-6 text-right">
+                    <input type="submit" value="Выполнить вход" class="btn btn-primary" />
+                </div>
+            </div>
+            <div class="row Aligner-item">
+                <p style="margin-top: 15px;">
+                    @Html.ActionLink("Зарегистрируйтесь", "Register"), если у вас нет учетной записи.
+                </p>
+            </div>
+            
+            }
+       
+</div>
+
+
+
+    @*<section class="social" id="socialLoginForm">
+            <h2>Используйте для входа другую службу.</h2>
+            @Html.Action("ExternalLoginsList", new { ReturnUrl = ViewBag.ReturnUrl })
+        </section>
+
+        @section Scripts {
+            @Scripts.Render("~/bundles/jqueryval")
+        }*@

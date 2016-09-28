@@ -1,0 +1,9 @@
+﻿@model IEnumerable<ClassLibrary1.Model.raspisanie>
+
+@foreach(var item in Model)
+{
+
+    @Html.Encode(item.Номер_пары + ". " + item.Название + " " + item.Номер_аудитории + " (" + item.Тип_занятия.Remove(3) + ")|" + item.Подгруппа + item.Группа1 + item.Группа2);  
+    
+}
+    

@@ -1,0 +1,61 @@
+C:\Users\Valeg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Valeg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Valeg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Valeg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Valeg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\MVCTestPfile\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\MVCTestPfile\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\MVCTestPfile\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\MVCTestPfile\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\MVCTestPfile\ClassLibrary1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Downloads\23\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Denis\Downloads\23\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Denis\Downloads\23\MVCTestPfile\ClassLibrary1\bin\Debug\MySql.Data.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\ClassLibrary1\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\ClassLibrary1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Downloads\23\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\ClassLibrary1\bin\Debug\MySql.Data.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\ClassLibrary1\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\ClassLibrary1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\ClassLibrary1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+e:\ElectronicJournal-master\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+e:\ElectronicJournal-master\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+e:\ElectronicJournal-master\MVCTestPfile\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+e:\ElectronicJournal-master\MVCTestPfile\ClassLibrary1\bin\Debug\MySql.Data.dll
+e:\ElectronicJournal-master\MVCTestPfile\ClassLibrary1\bin\Debug\MySql.Data.Entity.dll
+e:\ElectronicJournal-master\MVCTestPfile\ClassLibrary1\bin\Debug\MySql.Data.Entity.EF6.dll
+e:\ElectronicJournal-master\MVCTestPfile\ClassLibrary1\bin\Debug\MySql.Fabric.Plugin.dll
+e:\ElectronicJournal-master\MVCTestPfile\ClassLibrary1\bin\Debug\MySql.Web.dll
+e:\ElectronicJournal-master\MVCTestPfile\ClassLibrary1\bin\Debug\EntityFramework.xml
+e:\ElectronicJournal-master\MVCTestPfile\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+e:\ElectronicJournal-master\MVCTestPfile\ClassLibrary1\bin\Debug\ru\EntityFramework.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+e:\ElectronicJournal-master\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+e:\ElectronicJournal-master\MVCTestPfile\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

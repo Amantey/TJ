@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище mydbModel" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.7" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "def.mydb.combzanatye" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="combzanatye">
+    <Key>
+      <PropertyRef Name="idCombZanatye" />
+    </Key>
+    <Property Name="idCombZanatye" Type="int" Nullable="false" />
+    <Property Name="NumbOfComb" Type="int" />
+    <Property Name="NameComb" Type="varchar" MaxLength="45" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "def.mydb.groupinzanatye" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="groupinzanatye">
+    <Key>
+      <PropertyRef Name="idGroupInZanatye" />
+    </Key>
+    <Property Name="idGroupInZanatye" Type="int" Nullable="false" />
+    <Property Name="id_group" Type="int" />
+  </EntityType>
+  <EntityType Name="groups">
+    <Key>
+      <PropertyRef Name="id_group" />
+    </Key>
+    <Property Name="id_group" Type="int" Nullable="false" />
+    <Property Name="name_g" Type="varchar" MaxLength="45" />
+  </EntityType>
+  <EntityType Name="raspisanie">
+    <Key>
+      <PropertyRef Name="id_raspisanie" />
+    </Key>
+    <Property Name="id_raspisanie" Type="int" Nullable="false" />
+    <Property Name="id_user" Type="int" />
+    <Property Name="predmetname" Type="varchar" MaxLength="45" />
+    <Property Name="auditoria" Type="varchar" MaxLength="45" />
+    <Property Name="verh" Type="bool" />
+    <Property Name="niz" Type="bool" />
+    <Property Name="edinozdy" Type="bool" />
+    <Property Name="practice" Type="bool" />
+    <Property Name="timeb" Type="time" Precision="0" />
+    <Property Name="raspisaniecol" Type="varchar" MaxLength="45" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "def.mydb.spisokinzanatye" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="spisokinzanatye">
+    <Key>
+      <PropertyRef Name="idSpisokInZanatyae" />
+    </Key>
+    <Property Name="idSpisokInZanatyae" Type="int" Nullable="false" />
+    <Property Name="id_students_group" Type="int" />
+    <Property Name="rating" Type="int" />
+    <Property Name="propusk" Type="bool" />
+  </EntityType>
+  <EntityType Name="students_group">
+    <Key>
+      <PropertyRef Name="id_students_group" />
+    </Key>
+    <Property Name="id_students_group" Type="int" Nullable="false" />
+    <Property Name="id_group" Type="int" />
+    <Property Name="name_s" Type="varchar" MaxLength="60" />
+  </EntityType>
+  <EntityType Name="user_table">
+    <Key>
+      <PropertyRef Name="id_user" />
+    </Key>
+    <Property Name="id_user" Type="int" Nullable="false" />
+    <Property Name="login" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="last_name" Type="varchar" MaxLength="45" Nullable="false" />
+  </EntityType>
+  <EntityType Name="zanatye">
+    <Key>
+      <PropertyRef Name="idZanatye" />
+    </Key>
+    <Property Name="idZanatye" Type="int" Nullable="false" />
+    <Property Name="idGroupInZanatye" Type="int" />
+    <Property Name="id_raspisanie" Type="int" />
+    <Property Name="idSpisokInZanatye" Type="int" />
+    <Property Name="timeday" Type="datetime" Precision="0" />
+    <Property Name="modul" Type="bool" />
+    <Property Name="idCombZanatye" Type="int" />
+  </EntityType>
+  <Association Name="id_group">
+    <End Role="groups" Type="Self.groups" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="students_group" Type="Self.students_group" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="groups">
+        <PropertyRef Name="id_group" />
+      </Principal>
+      <Dependent Role="students_group">
+        <PropertyRef Name="id_group" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="id_user">
+    <End Role="user_table" Type="Self.user_table" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="raspisanie" Type="Self.raspisanie" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="user_table">
+        <PropertyRef Name="id_user" />
+      </Principal>
+      <Dependent Role="raspisanie">
+        <PropertyRef Name="id_user" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище mydbModelContainer">
+    <EntitySet Name="groups" EntityType="Self.groups" Schema="mydb" store:Type="Tables" />
+    <EntitySet Name="raspisanie" EntityType="Self.raspisanie" Schema="mydb" store:Type="Tables" />
+    <EntitySet Name="students_group" EntityType="Self.students_group" Schema="mydb" store:Type="Tables" />
+    <EntitySet Name="user_table" EntityType="Self.user_table" Schema="mydb" store:Type="Tables" />
+    <EntitySet Name="zanatye" EntityType="Self.zanatye" Schema="mydb" store:Type="Tables" />
+    <EntitySet Name="combzanatye" EntityType="Self.combzanatye" store:Type="Tables" store:Schema="mydb">
+      <DefiningQuery>SELECT
+`combzanatye`.`idCombZanatye`, 
+`combzanatye`.`NumbOfComb`, 
+`combzanatye`.`NameComb`
+FROM `combzanatye` AS `combzanatye`</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="groupinzanatye" EntityType="Self.groupinzanatye" store:Type="Tables" store:Schema="mydb">
+      <DefiningQuery>SELECT
+`groupinzanatye`.`idGroupInZanatye`, 
+`groupinzanatye`.`id_group`
+FROM `groupinzanatye` AS `groupinzanatye`</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="spisokinzanatye" EntityType="Self.spisokinzanatye" store:Type="Tables" store:Schema="mydb">
+      <DefiningQuery>SELECT
+`spisokinzanatye`.`idSpisokInZanatyae`, 
+`spisokinzanatye`.`id_students_group`, 
+`spisokinzanatye`.`rating`, 
+`spisokinzanatye`.`propusk`
+FROM `spisokinzanatye` AS `spisokinzanatye`</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="id_group" Association="Self.id_group">
+      <End Role="groups" EntitySet="groups" />
+      <End Role="students_group" EntitySet="students_group" />
+    </AssociationSet>
+    <AssociationSet Name="id_user" Association="Self.id_user">
+      <End Role="user_table" EntitySet="user_table" />
+      <End Role="raspisanie" EntitySet="raspisanie" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

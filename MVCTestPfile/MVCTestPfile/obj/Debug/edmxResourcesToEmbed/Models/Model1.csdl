@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="mydbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="groups">
+    <Key>
+      <PropertyRef Name="id_group" />
+    </Key>
+    <Property Name="id_group" Type="Int32" Nullable="false" />
+    <Property Name="name_g" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="students_group" Relationship="Self.id_group" FromRole="groups" ToRole="students_group" />
+  </EntityType>
+  <EntityType Name="raspisanie">
+    <Key>
+      <PropertyRef Name="id_raspisanie" />
+    </Key>
+    <Property Name="id_raspisanie" Type="Int32" Nullable="false" />
+    <Property Name="id_user" Type="Int32" />
+    <Property Name="predmetname" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+    <Property Name="auditoria" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+    <Property Name="verh" Type="Boolean" />
+    <Property Name="niz" Type="Boolean" />
+    <Property Name="edinozdy" Type="Boolean" />
+    <Property Name="practice" Type="Boolean" />
+    <Property Name="timeb" Type="Time" />
+    <Property Name="raspisaniecol" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="user_table" Relationship="Self.id_user" FromRole="raspisanie" ToRole="user_table" />
+  </EntityType>
+  <EntityType Name="students_group">
+    <Key>
+      <PropertyRef Name="id_students_group" />
+    </Key>
+    <Property Name="id_students_group" Type="Int32" Nullable="false" />
+    <Property Name="id_group" Type="Int32" />
+    <Property Name="name_s" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="groups" Relationship="Self.id_group" FromRole="students_group" ToRole="groups" />
+  </EntityType>
+  <EntityType Name="user_table">
+    <Key>
+      <PropertyRef Name="id_user" />
+    </Key>
+    <Property Name="id_user" Type="Int32" Nullable="false" />
+    <Property Name="login" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="last_name" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="raspisanie" Relationship="Self.id_user" FromRole="user_table" ToRole="raspisanie" />
+  </EntityType>
+  <EntityType Name="zanatye">
+    <Key>
+      <PropertyRef Name="idZanatye" />
+    </Key>
+    <Property Name="idZanatye" Type="Int32" Nullable="false" />
+    <Property Name="idGroupInZanatye" Type="Int32" />
+    <Property Name="id_raspisanie" Type="Int32" />
+    <Property Name="idSpisokInZanatye" Type="Int32" />
+    <Property Name="timeday" Type="DateTime" />
+    <Property Name="modul" Type="Boolean" />
+    <Property Name="idCombZanatye" Type="Int32" />
+  </EntityType>
+  <EntityType Name="combzanatye">
+    <Key>
+      <PropertyRef Name="idCombZanatye" />
+    </Key>
+    <Property Name="idCombZanatye" Type="Int32" Nullable="false" />
+    <Property Name="NumbOfComb" Type="Int32" />
+    <Property Name="NameComb" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="groupinzanatye">
+    <Key>
+      <PropertyRef Name="idGroupInZanatye" />
+    </Key>
+    <Property Name="idGroupInZanatye" Type="Int32" Nullable="false" />
+    <Property Name="id_group" Type="Int32" />
+  </EntityType>
+  <EntityType Name="spisokinzanatye">
+    <Key>
+      <PropertyRef Name="idSpisokInZanatyae" />
+    </Key>
+    <Property Name="idSpisokInZanatyae" Type="Int32" Nullable="false" />
+    <Property Name="id_students_group" Type="Int32" />
+    <Property Name="rating" Type="Int32" />
+    <Property Name="propusk" Type="Boolean" />
+  </EntityType>
+  <Association Name="id_group">
+    <End Role="groups" Type="Self.groups" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="students_group" Type="Self.students_group" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="groups">
+        <PropertyRef Name="id_group" />
+      </Principal>
+      <Dependent Role="students_group">
+        <PropertyRef Name="id_group" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="id_user">
+    <End Role="user_table" Type="Self.user_table" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="raspisanie" Type="Self.raspisanie" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="user_table">
+        <PropertyRef Name="id_user" />
+      </Principal>
+      <Dependent Role="raspisanie">
+        <PropertyRef Name="id_user" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="mydbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="groups" EntityType="Self.groups" />
+    <EntitySet Name="raspisanie" EntityType="Self.raspisanie" />
+    <EntitySet Name="students_group" EntityType="Self.students_group" />
+    <EntitySet Name="user_table" EntityType="Self.user_table" />
+    <EntitySet Name="zanatye" EntityType="Self.zanatye" />
+    <EntitySet Name="combzanatye" EntityType="Self.combzanatye" />
+    <EntitySet Name="groupinzanatye" EntityType="Self.groupinzanatye" />
+    <EntitySet Name="spisokinzanatye" EntityType="Self.spisokinzanatye" />
+    <AssociationSet Name="id_group" Association="Self.id_group">
+      <End Role="groups" EntitySet="groups" />
+      <End Role="students_group" EntitySet="students_group" />
+    </AssociationSet>
+    <AssociationSet Name="id_user" Association="Self.id_user">
+      <End Role="user_table" EntitySet="user_table" />
+      <End Role="raspisanie" EntitySet="raspisanie" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,87 @@
+﻿@model IEnumerable<MVCTestPfile.Models.raspisanie>
+
+@{
+    ViewBag.Title = "ViewRasp";
+}
+
+<h2>ViewRasp</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.id_raspisanie)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.id_user)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.predmetname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.auditoria)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.verh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.niz)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.edinozdy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.practice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.timeb)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.raspisaniecol)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.id_raspisanie)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.id_user)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.predmetname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.auditoria)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.verh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.niz)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.edinozdy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.practice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.timeb)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.raspisaniecol)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

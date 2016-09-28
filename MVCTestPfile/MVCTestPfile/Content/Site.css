@@ -1,0 +1,100 @@
+﻿
+div#body {
+
+    margin: 60px;
+}
+td.vertical{
+width:1em; line-height:1em;
+}
+td.zagalovok{
+    width:15px;
+    background-color:#333333;
+    color:#ffffff;
+}
+td.numer{
+    width:15px;
+}
+th.center{
+    text-align: center;
+    vertical-align: middle;
+}
+th.headcolor{
+    background-color:#333333;
+    color: white;
+}
+td.headcolor{
+    width: 10px;
+    background-color:#333333;
+    color: white;
+}
+
+label.beatiful{
+    height: 35px;
+    text-align: center;
+    vertical-align: middle;
+}
+label.control-label{
+    text-align: center;
+    vertical-align: middle;
+    height: 34px;
+    margin-top: 3%;
+}
+.centerForCollumn {
+    text-align: center; 
+    vertical-align: middle;
+}
+h1#loginHeader {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.Aligner {
+		width: 100%;
+		height: 50%;
+		position: fixed;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		}
+.Aligner-item {
+	    max-width: 100%;
+        }
+
+
+.illumination{
+}
+
+#imageCenter{
+    line-height: 270px;
+}
+#imageCenter img{
+    vertical-align: middle;
+    text-align: center;
+}
+
+.table-hide{
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}
+
+/*thead{
+    background-color:#333333;
+    color:#ffffff;
+}
+td {
+    height:200px;
+}
+td.day {
+    width:20px;
+    background-color:#333333;
+    color:#ffffff;
+}
+td.day1 {
+    width:500px;
+}
+div.row{
+    padding:2px;
+}*/
+

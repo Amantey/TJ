@@ -1,0 +1,741 @@
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.dll.config
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.pdb
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\Antlr3.Runtime.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.AspNet.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.Core.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.Edm.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.OData.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\MySql.Web.v20.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Net.Http.Formatting.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Spatial.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.OData.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.WebHost.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.Optimization.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Deployment.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Razor.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\WebGrease.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\WebMatrix.Data.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\WebMatrix.WebData.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Net.Http.Formatting.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.WebHost.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Deployment.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Razor.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\WebMatrix.Data.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\WebMatrix.WebData.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.AspNet.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.Core.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.OData.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.Edm.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.OData.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\System.Spatial.xml
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\EntityFramework.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Helpers.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Mvc.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Optimization.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Razor.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\WebMatrix.Data.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\WebMatrix.WebData.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.OData.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\de\System.Spatial.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\es\System.Spatial.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\fr\System.Spatial.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\it\System.Spatial.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ja\System.Spatial.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ko\System.Spatial.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ru\System.Spatial.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.dll
+c:\users\user\documents\visual studio 2013\Projects\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ClassLibrary1.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\MVCTestPfile\MVCTestPfile\bin\ClassLibrary1.pdb
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.dll.config
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.pdb
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\Antlr3.Runtime.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ClassLibrary1.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.Core.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\EntityFramework.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.Edm.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.OData.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\MySql.Web.v20.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\Newtonsoft.Json.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Spatial.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.Helpers.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.OData.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.Mvc.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.Optimization.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.Razor.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\WebGrease.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\WebMatrix.Data.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\WebMatrix.WebData.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ClassLibrary1.pdb
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\EntityFramework.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\Newtonsoft.Json.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.Helpers.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.Mvc.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.Razor.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\WebMatrix.Data.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\WebMatrix.WebData.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.Core.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.OData.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.Edm.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.OData.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\System.Spatial.xml
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\EntityFramework.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Razor.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\WebMatrix.WebData.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.OData.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\de\System.Spatial.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\es\System.Spatial.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\fr\System.Spatial.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\it\System.Spatial.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ja\System.Spatial.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ko\System.Spatial.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\ru\System.Spatial.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.dll
+C:\Users\user\Documents\GitHub\chelenix\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.pdb
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.dll.config
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.pdb
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\Antlr3.Runtime.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ClassLibrary1.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.Core.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\EntityFramework.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.Edm.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.OData.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\MySql.Data.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\MySql.Data.Entity.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\MySql.Web.v20.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\Newtonsoft.Json.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Net.Http.Formatting.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Spatial.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.Helpers.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.OData.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.WebHost.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.Mvc.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.Optimization.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.Razor.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Razor.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\WebGrease.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\WebMatrix.WebData.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ClassLibrary1.pdb
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\EntityFramework.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\Newtonsoft.Json.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Net.Http.Formatting.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.Helpers.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.WebHost.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.Mvc.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.Razor.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Razor.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\WebMatrix.Data.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\WebMatrix.WebData.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.Core.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.OData.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.Edm.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.OData.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\System.Spatial.xml
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\EntityFramework.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\WebMatrix.WebData.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.OData.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\de\System.Spatial.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\es\System.Spatial.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\fr\System.Spatial.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\it\System.Spatial.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ja\System.Spatial.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ko\System.Spatial.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\ru\System.Spatial.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.dll
+C:\Users\Denis\Downloads\23\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.pdb
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.dll.config
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.pdb
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Antlr3.Runtime.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ClassLibrary1.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.Core.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\EntityFramework.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.Edm.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.OData.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\MySql.Data.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\MySql.Data.Entity.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\MySql.Web.v20.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Newtonsoft.Json.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Net.Http.Formatting.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Spatial.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Helpers.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.OData.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.WebHost.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Mvc.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Optimization.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Razor.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Razor.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\WebGrease.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\WebMatrix.WebData.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ClassLibrary1.pdb
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\EntityFramework.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Newtonsoft.Json.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Net.Http.Formatting.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Helpers.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.WebHost.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Mvc.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Razor.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Razor.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\WebMatrix.Data.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\WebMatrix.WebData.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.Core.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.OData.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.Edm.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.OData.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Spatial.xml
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\EntityFramework.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\WebMatrix.WebData.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\de\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\es\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\fr\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\it\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ja\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ko\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.dll
+C:\Users\Denis\Documents\GitHub\Test\ElectronicJournal\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.pdb
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.dll.config
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.pdb
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\Antlr3.Runtime.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ClassLibrary1.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.Core.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\EntityFramework.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.Edm.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.OData.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\MySql.Web.v20.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\Newtonsoft.Json.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Net.Http.Formatting.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Spatial.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.Helpers.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.OData.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.WebHost.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.Mvc.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.Optimization.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.Razor.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Razor.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\WebGrease.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\WebMatrix.Data.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\WebMatrix.WebData.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ClassLibrary1.pdb
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\EntityFramework.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\Newtonsoft.Json.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Net.Http.Formatting.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.Helpers.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.WebHost.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.Mvc.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.Razor.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Razor.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\WebMatrix.Data.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\WebMatrix.WebData.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.Core.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.OData.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.Edm.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.OData.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\System.Spatial.xml
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\EntityFramework.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\WebMatrix.WebData.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\de\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\es\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\fr\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\it\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ja\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ko\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\ru\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.dll
+C:\Users\Denis\Documents\GitHub\Project\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.pdb
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.dll.config
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.pdb
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Antlr3.Runtime.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ClassLibrary1.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.Core.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\EntityFramework.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.Edm.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.OData.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\MySql.Web.v20.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Newtonsoft.Json.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Net.Http.Formatting.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Spatial.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Helpers.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.OData.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.WebHost.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Mvc.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Optimization.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Razor.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Razor.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\WebGrease.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\WebMatrix.Data.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\WebMatrix.WebData.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ClassLibrary1.pdb
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\EntityFramework.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Newtonsoft.Json.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Net.Http.Formatting.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Helpers.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.WebHost.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Mvc.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Razor.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Razor.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\WebMatrix.Data.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\WebMatrix.WebData.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.Core.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.OData.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.Edm.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.OData.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\System.Spatial.xml
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\EntityFramework.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\WebMatrix.WebData.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\de\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\es\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\fr\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\it\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ja\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ko\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\ru\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.dll
+C:\Users\Denis\Documents\GitHub\ElectronicJournal\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.pdb
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.dll.config
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\MVCTestPfile.pdb
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Antlr3.Runtime.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ClassLibrary1.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.AspNet.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.Core.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.Consumer.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\EntityFramework.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\EntityFramework.SqlServer.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.Edm.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.OData.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.Infrastructure.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.WebPages.OAuth.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\MySql.Data.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\MySql.Data.Entity.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\MySql.Data.Entity.EF6.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\MySql.Fabric.Plugin.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\MySql.Web.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Newtonsoft.Json.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Spatial.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.Helpers.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.OData.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.Mvc.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.Optimization.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.Razor.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Deployment.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Razor.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\WebGrease.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\WebMatrix.Data.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\WebMatrix.WebData.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ClassLibrary1.pdb
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\EntityFramework.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\EntityFramework.SqlServer.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Newtonsoft.Json.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.Helpers.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.Mvc.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.Razor.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Deployment.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.WebPages.Razor.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\WebMatrix.Data.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Microsoft.Web.WebPages.OAuth.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\WebMatrix.WebData.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.AspNet.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.Core.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.Consumer.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OAuth.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.OData.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.Edm.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Microsoft.Data.OData.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Spatial.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\EntityFramework.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\EntityFramework.SqlServer.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Helpers.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Mvc.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Optimization.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Razor.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.Deployment.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.WebPages.Razor.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\WebMatrix.WebData.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.OData.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\de\Microsoft.Data.Edm.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\es\Microsoft.Data.Edm.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\fr\Microsoft.Data.Edm.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\it\Microsoft.Data.Edm.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ja\Microsoft.Data.Edm.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ko\Microsoft.Data.Edm.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Data.Edm.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\de\Microsoft.Data.OData.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\es\Microsoft.Data.OData.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\fr\Microsoft.Data.OData.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\it\Microsoft.Data.OData.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ja\Microsoft.Data.OData.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ko\Microsoft.Data.OData.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\Microsoft.Data.OData.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\de\System.Spatial.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\es\System.Spatial.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\fr\System.Spatial.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\it\System.Spatial.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ja\System.Spatial.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ko\System.Spatial.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\System.Spatial.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\zh-Hans\System.Spatial.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\zh-Hant\System.Spatial.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.csprojResolveAssemblyReference.cache
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\obj\Debug\MVCTestPfile.pdb
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Net.Http.Formatting.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.WebHost.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Org.Mentalis.Security.Cryptography.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Mono.Math.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Antlr3.Runtime.pdb
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Net.Http.Formatting.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.Http.WebHost.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\System.Web.Optimization.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Org.Mentalis.Security.Cryptography.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\Mono.Math.xml
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\System.Net.Http.Formatting.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.resources.dll
+e:\ElectronicJournal-master\MVCTestPfile\MVCTestPfile\bin\ru\System.Web.Http.WebHost.resources.dll

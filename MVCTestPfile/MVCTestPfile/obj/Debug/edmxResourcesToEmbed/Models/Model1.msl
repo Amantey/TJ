@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище mydbModelContainer" CdmEntityContainer="mydbEntities">
+    <EntitySetMapping Name="groups">
+      <EntityTypeMapping TypeName="mydbModel.groups">
+        <MappingFragment StoreEntitySet="groups">
+          <ScalarProperty Name="id_group" ColumnName="id_group" />
+          <ScalarProperty Name="name_g" ColumnName="name_g" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="raspisanie">
+      <EntityTypeMapping TypeName="mydbModel.raspisanie">
+        <MappingFragment StoreEntitySet="raspisanie">
+          <ScalarProperty Name="id_raspisanie" ColumnName="id_raspisanie" />
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+          <ScalarProperty Name="predmetname" ColumnName="predmetname" />
+          <ScalarProperty Name="auditoria" ColumnName="auditoria" />
+          <ScalarProperty Name="verh" ColumnName="verh" />
+          <ScalarProperty Name="niz" ColumnName="niz" />
+          <ScalarProperty Name="edinozdy" ColumnName="edinozdy" />
+          <ScalarProperty Name="practice" ColumnName="practice" />
+          <ScalarProperty Name="timeb" ColumnName="timeb" />
+          <ScalarProperty Name="raspisaniecol" ColumnName="raspisaniecol" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="students_group">
+      <EntityTypeMapping TypeName="mydbModel.students_group">
+        <MappingFragment StoreEntitySet="students_group">
+          <ScalarProperty Name="id_students_group" ColumnName="id_students_group" />
+          <ScalarProperty Name="id_group" ColumnName="id_group" />
+          <ScalarProperty Name="name_s" ColumnName="name_s" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="user_table">
+      <EntityTypeMapping TypeName="mydbModel.user_table">
+        <MappingFragment StoreEntitySet="user_table">
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="zanatye">
+      <EntityTypeMapping TypeName="mydbModel.zanatye">
+        <MappingFragment StoreEntitySet="zanatye">
+          <ScalarProperty Name="idZanatye" ColumnName="idZanatye" />
+          <ScalarProperty Name="idGroupInZanatye" ColumnName="idGroupInZanatye" />
+          <ScalarProperty Name="id_raspisanie" ColumnName="id_raspisanie" />
+          <ScalarProperty Name="idSpisokInZanatye" ColumnName="idSpisokInZanatye" />
+          <ScalarProperty Name="timeday" ColumnName="timeday" />
+          <ScalarProperty Name="modul" ColumnName="modul" />
+          <ScalarProperty Name="idCombZanatye" ColumnName="idCombZanatye" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="combzanatye">
+      <EntityTypeMapping TypeName="mydbModel.combzanatye">
+        <MappingFragment StoreEntitySet="combzanatye">
+          <ScalarProperty Name="idCombZanatye" ColumnName="idCombZanatye" />
+          <ScalarProperty Name="NumbOfComb" ColumnName="NumbOfComb" />
+          <ScalarProperty Name="NameComb" ColumnName="NameComb" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="groupinzanatye">
+      <EntityTypeMapping TypeName="mydbModel.groupinzanatye">
+        <MappingFragment StoreEntitySet="groupinzanatye">
+          <ScalarProperty Name="idGroupInZanatye" ColumnName="idGroupInZanatye" />
+          <ScalarProperty Name="id_group" ColumnName="id_group" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="spisokinzanatye">
+      <EntityTypeMapping TypeName="mydbModel.spisokinzanatye">
+        <MappingFragment StoreEntitySet="spisokinzanatye">
+          <ScalarProperty Name="idSpisokInZanatyae" ColumnName="idSpisokInZanatyae" />
+          <ScalarProperty Name="id_students_group" ColumnName="id_students_group" />
+          <ScalarProperty Name="rating" ColumnName="rating" />
+          <ScalarProperty Name="propusk" ColumnName="propusk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

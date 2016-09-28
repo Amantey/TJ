@@ -1,0 +1,13 @@
+﻿@*@model IEnumerable<test_jurnal.Models.Entity.proceduri.AllGrup>*@
+
+@foreach(var item in Model)
+{
+    <div class="table-bordered">
+        <table class="table table-bordered">
+            
+            <tr>
+                <td>@Html.Encode(item.Fio)</td>
+            </tr>
+        </table>
+    </div>
+}
