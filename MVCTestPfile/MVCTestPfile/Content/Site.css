@@ -23,11 +23,25 @@ th.headcolor{
     color: white;
 }
 td.headcolor{
-    width: 10px;
+    width: 30px;
+
+    background-color:#333333;
+    color: white;
+}
+tr th{
     background-color:#333333;
     color: white;
 }
 
+.table_Students th{
+    font: small-caption;
+}
+td{
+    text-align: center;
+}
+.leaving{
+    background-color: salmon;
+}
 label.beatiful{
     height: 35px;
     text-align: center;
@@ -63,6 +77,7 @@ h1#loginHeader {
 
 
 .illumination{
+    background-color: aquamarine;
 }
 
 #imageCenter{
@@ -79,6 +94,180 @@ h1#loginHeader {
     left: -9999px;
 }
 
+table.cell-size td{
+    width: 15px;
+    height: 15px;
+}
+.modul{
+    background-color:#a42b2b;
+    color: #ffffff
+}
+#dropList{
+    position: relative;
+
+}
+
+/*выдвигающаяся панель*/
+#panel{
+    background: #ffffff;
+    display: inline-block;
+    width: 100px;
+    height: 190px;
+    top: 300px;
+    left: -73px;
+    position: fixed;
+    z-index: 4;
+    opacity: 0.8;
+    cursor: pointer;
+    transition: left 0.5s linear;
+}
+#panel > ul{
+    text-align: center;
+    display: block;
+    height: 40px;
+    width: 70px;
+    line-height: 1.2em;
+    padding: 11px 0;
+    border-right: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 0;
+    left: 0;
+
+    color:#000000;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+   #panel > div{
+       display: block;
+       float: right;
+       color:#fff;
+       font-size: 45px;
+       padding: 5px 13px;
+   }
+        #panel:hover,
+        #panel:focus{
+            text-decoration: none;
+            opacity: 1;
+        }
+        #panel.visible {
+            left:0;
+            visibility: visible;
+            opacity: 1;
+        }
+
+.activePointList {
+    background: #21fbf4;
+    color: #000000;
+}
+
+.invisiblePanel{
+    visibility:collapse;
+}
+/*Блок для красивого переключателя*/
+.material-switch > input[type="checkbox"] {
+    display: none;   
+}
+
+.material-switch > label {
+    cursor: pointer;
+    height: 0px;
+    position: relative; 
+    width: 40px;  
+}
+
+.material-switch > label::before {
+    background: rgb(0, 0, 0);
+    box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    content: '';
+    height: 16px;
+    margin-top: -8px;
+    position:absolute;
+    opacity: 0.3;
+    transition: all 0.4s ease-in-out;
+    width: 40px;
+}
+.material-switch > label::after {
+    background: rgb(255, 255, 255);
+    border-radius: 16px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    content: '';
+    height: 24px;
+    left: -4px;
+    margin-top: -8px;
+    position: absolute;
+    top: -4px;
+    transition: all 0.3s ease-in-out;
+    width: 24px;
+}
+.material-switch > input[type="checkbox"]:checked + label::before {
+    background: inherit;
+    opacity: 0.5;
+}
+.material-switch > input[type="checkbox"]:checked + label::after {
+    background: inherit;
+    left: 20px;
+}
+/*
+.date-picker,
+.date-container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    color: rgb(75, 77, 78);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.date-container {
+    padding: 0px 40px;   
+}
+.date-picker h2, .date-picker h4 {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+}
+.date-container .date {
+    text-align: center;
+}
+.date-picker span.fa {
+    position: absolute;
+    font-size: 4em;
+    font-weight: 100;
+    padding: 8px 0px 7px;
+    cursor: pointer;
+    top: 0px;
+}
+.date-picker span.fa[data-type="subtract"] {
+    left: 0px;
+}
+.date-picker span.fa[data-type="add"] {
+    right: 0px;
+}
+.date-picker span[data-toggle="calendar"] {
+    display: block;
+    position: absolute;
+    top: -7px;
+    right: 45px;
+    font-size: 1em !important;
+    cursor: pointer;
+}
+
+.date-picker .input-datepicker {
+    display: none;
+    position: absolute;
+    top: 50%;
+    margin-top: -17px;
+    width:100%;
+}
+.date-picker .input-datepicker.show-input {
+    display: table;*/
+}
 /*thead{
     background-color:#333333;
     color:#ffffff;

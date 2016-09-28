@@ -119,7 +119,7 @@
         }
 
     })
-    $('.group').on('click', function () {
+    /*$('.group').on('click', function () {
         var parent = $(this).parent().attr('class');
         num = Number((parent).substring(0, 1));
         var tType = String(parent).substring(1, 2);
@@ -152,7 +152,7 @@
         }
     })
 
-
+    */
 
     $('#sub').submit(function (event) {
 
